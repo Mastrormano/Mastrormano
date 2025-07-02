@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mastrormano
-- 👀 I’m inteested in criar projetos para ajudar instituições arquivisticas com linguagem Java Script  
+- 👋 Hi, I’m @Mastromano
+- 👀 I’m inteested in criar projetos para ajudar instituições arquivisticas com linguagem Java Script e PHP 
 - 🌱 I’m currently learning ...html no momento
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pode ser por mensagem direta no git ou pelo email: tere_mastromano@hotmail.com
